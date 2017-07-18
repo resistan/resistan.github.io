@@ -1,0 +1,47 @@
+---
+layout: post
+title: "국내 웹디자인"
+date: 2006-09-10 15:58:30.000000000 +09:00
+type: post
+published: true
+status: publish
+categories:
+- IT/웹
+tags:
+- element
+- "디자인"
+- "웹"
+- "접근성"
+meta:
+  _utw_tags_0: a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:13:"Accessibility";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Element";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"Web";}}
+  _edit_last: '2'
+  dsq_thread_id: '1110336577'
+  Views: '31'
+  _wp_rp_related_posts_query_result_cache_expiration: '1399372420'
+  _wp_rp_related_posts_query_result_cache_5: a:10:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"54";s:5:"score";s:17:"52.97464155610205";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"35";s:5:"score";s:17:"37.30567019093199";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"49";s:5:"score";s:17:"32.41146979605145";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"45";s:5:"score";s:17:"32.41146979605145";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"11";s:5:"score";s:17:"32.41146979605145";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"42";s:5:"score";s:17:"31.67114725837566";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"78";s:5:"score";s:18:"30.523564423403407";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"66";s:5:"score";s:18:"30.017573704004647";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:18:"29.704144655697007";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:1:"7";s:5:"score";s:18:"29.332575075228593";}}
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1411228940;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:78;}i:1;a:1:{s:2:"id";i:22;}i:2;a:1:{s:2:"id";i:402;}}}}
+  _wpcom_is_markdown: '1'
+author:
+  login: resistan
+  email: resistan@gmail.com
+  display_name: "조현진"
+  first_name: "현진"
+  last_name: "조"
+---
+<p>내가 사용하는 CSS 기본 파일은 이렇다.</p>
+<ul>
+<li>global.css : 공통적으로 사용되는 셀렉터에 관한 정의</li>
+<li>layout.css : 전체 틀에 관한 정의</li>
+<li>datatable.css : 표의 유형에 관한 정의</li>
+<li>board.css : 게시판에 관한 정의</li>
+</ul>
+<p>그런데, 최근의 작업물은 위의 파일을 제외하고도 적게는 6개에서 많게는 10개 이상의 CSS를 작성해야할 때가 많다. 더 좋은 방법을 사용하는 분도 계시겠지만, 이 파일들은  사이트의 메뉴별 CSS인 경우가 많다. 나름대로 코드량을 줄이기 위해서 이래저래 애를 써보지만, 어쩔 수 없이  써야하는 코드도 제법 된다.</p>
+<p>내가 에이전시에 근무하면서 프로젝트 때마다 웹 스타일가이드를 요청하곤 하지만, 역시 느끼게 되는 점은<strong> IA보다는 Creative에 치중한 디자인</strong>이 대부분이라는 점이다. 특히 웹표준 준수(혹은 접근성 지침 준수)를 요구하는 프로젝트에서는 디자이너에게 이러쿵 저러쿵 하게될 때가 많은데, 그때마다 디자이너는 나의 간섭을 힘들어한다.</p>
+<p>게다가 프로토타입 같은 것들이 기획 단계에서 알게 모르게 정해진다거나, 디자이너가 거기에 대해 이의를 제기하지 못하는(대부분 촉박한 일정 때문이지만) 경우가 많고, 기획서에 나와있는 형태가 디자인으로 탈바꿈해버리는, 그래서 HTML 마크업도 결국은 내용을 구조적으로 정리한다기 보다는 <strong>기획서상의 내용을 거의 그대로 웹페이지에 얹어</strong>내는 경우가 많다. 게다가 Cascading하게 CSS를 작성하는 것도 꽤나 까다로와진다. 왜냐하면, 사이트의 메뉴별로 색상이 바뀐다던지, 스타일이 바뀌는 경우가 비일비재하기 때문이다.</p>
+<p>뭐 지금은 디자인을 하지 않지만(예전에 했다고도 말하긴 어렵지만 -_-;), 내가 아는 디자인의 원칙은 하나 뿐이다.</p>
+<blockquote><p>형태는 기능을 따른다.</p></blockquote>
+<p>예전에 접근성에 관해 정리하면서 Universal Design에 관한 내용도 함께 써뒀지만, 웹에 관한한 국내 웹디자이너들의 생각은 꽤나 모호해보인다. 클라이언트의 입장이 대부분 그렇지만 우리나라 웹사이트는 사용자와 그 사용성을 위해 어떤 원칙을 만족시키는지의 여부보다는 <strong>일단 보기좋고 봐야 한다</strong>는 생각이 뿌리깊어 보인다. 어떤 사람이던 웹에 대해 아무것도 몰라도 <strong>보는 눈은 있다</strong>는 점이 가장 큰 문제가 아닐까 싶다.</p>
+<p>어제 <a title="Hooney님의 블로그" href="http://hooney.net/">Hooney</a>님과 간단히(?) 술한잔하면서 여러가지 이야기를 했는데, 그 중에 웹디자인과 접근성에 관한 이야기 중 인상깊었던 대목이</p>
+<blockquote><p>접근성은 100%를 위한 것이고, UI는 80%를 위한 것이다.</p></blockquote>
+<p>라는 이야기였다. (아하- 그렇구나~) 맞는 말이라고 생각한다.</p>
+<p>웹, 디자인, 웹디자인, UI, UX...  개념은 많은데  이 중 하나라도 확실히 이해하고 들이대(?)는 사람이 얼마나 될까? 스타일가이드가 없으면 사이트의 일관성이 떨어진다는 점을 모르는 사람은 없을텐데 말이다.</p>

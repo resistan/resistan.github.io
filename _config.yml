@@ -1,56 +1,64 @@
-# Site settings
-title: test
-email: test
-description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+# Dependencies
+markdown:	kramdown
+# Permalinks
+permalink:	:title
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://resistan.github.io/ # the base hostname & protocol for your site
-git_address: https://github.com/resistan/resistan.github.io
-git_edit_address: https://github.com/resistan/resistan.github.io/blob/master
+# Setup
+title:            취향의 흔적
+tagline:          'blog'
+description:      'My personal blog.'
+url:              http://resistan.github.io
+baseurl:          
+commentsystem:    disqus
+disqus_shortname: resistan
+include:          [_pages]
 
-# theme options from https://bootswatch.com/
-# comment out this to use default Bootstrap
-bootwatch: paper
+author:
+  name:           Ian Brunelli
+  url:            https://google.com/+IanCamporezBrunelli
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-gems:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
+paginate:         5
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - .idea/
-  - .gitignore
-  - README.md
-timezone: Europe/Berlin
-defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: post
-    sectionid: blog
+# Custom vars
+icon:             /assets/images/icon.png
+cover:            /assets/images/cover.jpg
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
+social:
+  - icon:         twitter
+    url:          https://twitter.com/resistan
+    desc:         Follow me on twitter
 
-collections:
-  docs:
-    permalink: /:collection/:path/
-    output: true
-  posts:
-    permalink: /blog/:year/:month/:day/:title/
-    output: true
+  - icon:         github
+    url:          https://github.com/resistan
+    desc:         Fork me on github
+
+  # - icon:         googleplus-alt
+  #   url:          https://google.com/+IanCamporezBrunelli
+  #   desc:         Add me on google+
+
+  - icon:         feed
+    url:          http://resistan.github.io/atom.xml
+    desc:         Subscribe to my feed
+
+menu:
+  - title:        Home
+    url:          /
+
+  - title:        About
+    url:          /about
+
+copyright:
+  author:         resistan
+  url:            http://resistan.github.io
+  type_title:     Some rights reserved
+  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+
+parallax:         false
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:  
+
+# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
+theme_color:       7E9576
+
+gems: [jekyll-paginate]

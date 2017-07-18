@@ -1,0 +1,64 @@
+---
+layout: post
+title: CSS 초급과 중급의 차이
+date: 2007-02-06 10:59:52.000000000 +09:00
+type: post
+published: true
+status: publish
+categories:
+- IT/웹
+tags:
+- CSS
+- expert
+- "초보"
+meta:
+  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"CSS";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"expert";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"novice";}}
+  _edit_last: '2'
+  dsq_thread_id: '1110348184'
+  Views: '37'
+  _wp_rp_related_posts_query_result_cache_expiration: '1399442069'
+  _wp_rp_related_posts_query_result_cache_5: a:10:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"33";s:5:"score";s:17:"47.34568399186507";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"54";s:5:"score";s:17:"43.02671549331218";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1047";s:5:"score";s:17:"39.97972452809671";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"47";s:5:"score";s:17:"39.97972452809671";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"40";s:5:"score";s:17:"39.97972452809671";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"22";s:5:"score";s:18:"30.201968706004493";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"59";s:5:"score";s:18:"14.654246584518585";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1091";s:5:"score";s:18:"11.646091790812191";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"10";s:5:"score";s:18:"10.374114257474762";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1191";s:5:"score";s:17:"6.093981930430939";}}
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1411227624;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:7;}i:1;a:1:{s:2:"id";i:33;}i:2;a:1:{s:2:"id";i:60;}}}}
+  _custom_gallery_link_images: 'off'
+  numbering_htt: '0'
+  _wpcom_is_markdown: '1'
+  _aioseop_opengraph_settings: a:12:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";}
+  _wpas_skip_6678231: '1'
+  _wpas_skip_8685690: '1'
+  _publicize_twitter_user: "@resistan"
+author:
+  login: resistan
+  email: resistan@gmail.com
+  display_name: "조현진"
+  first_name: "현진"
+  last_name: "조"
+---
+<p><a title="CSS 구문과 선택자 - Hooney.net" href="http://hooney.net/2007/02/06/354/">Hooney님 글</a>에 트랙백. 일단 제목에 맞는 예제부터 보시고...</p>
+<h2>예제</h2>
+<h3>초급</h3>
+<pre class="line-height:20 lang:css decode:true" title="초급자의 CSS">.font_04  { color: #333333; font-weight: bold;}
+.font_05  { font-family: "돋움"; font-size: 14px; color: #ffffff; font-weight: bold;}
+.font_06  { font-family: "돋움"; font-size: 12px; color: #006699; font-weight: bold;}
+.font_07  { font-size: 14px; color: #CC3333; font-weight: bold;}
+.font_08  { font-size: 14px; color: #134472; font-weight: bold;}
+.font_09  { font-family: "돋움"; font-size: 12px; color: #CC3333; font-weight: bold;}
+.font_sun  { color: red;}
+.font_sat  { color: blue;}</pre>
+<h3>중급</h3>
+<pre class="line-height:20 lang:css decode:true css" title="중급자의 CSS">body    { font-family:"돋움", Dotum, Arial, sans-serif; font-size:.75em; color: #333;}
+#wrap   { width: 65em; margin: 0 auto;}
+#header { paddding: 0 1em;}
+#header p { line-height:1em;}
+#calendar { width: 80%; font-size: 1em; color: #c33;}
+#calendar .sun { color: red;}
+#calendar .sat { color: blue;}</pre>
+<h2>차이점</h2>
+<ul>
+<li>초급은 클래스를 남발한다. CSS는 그저 HTML을 장식하는데 좀 더 편리한 수단에 지나지 않는다. 그래서 HTML에 class외의 관련 속성을 찾아보기 힘들다.</li>
+<li>초급은 에디터에서 지원하는 속성이나 값에 의존하는 경향이 강하기 때문에 올바른 속성을 사용하지 않는 경우가 많다.</li>
+<li>초급은 CSS에서 글자 색상이나 배경색, 테두리 색상 등, 간단한 것들만 선언하는 경우가 많다.</li>
+<li>중급은 상속의 개념 등을 이해하기 때문에 id와 class를 적절히 섞어 쓰며, CSS 구문도 효율적으로 작성한다.</li>
+<li>중급은 속성과 값을 알고 사용할 수 있어서 사이트의 전반적인 형태를 CSS로 제어할 수 있다.</li>
+<li>중급은 선택자를 적절히 사용하기 때문에 HTML 구문 역시 구조적이고 효율적으로 작성한다.</li>
+</ul>
+<p>뭐 <a title="CSS 구문과 선택자 - Hooney.net" href="http://hooney.net/2007/02/06/354/">Hooney님 글</a> 보면서 대충 생각나는 것만 적어봤습니다. 추가 삭제할 부분있다면, 태클 걸어주세요. :)</p>

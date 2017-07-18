@@ -1,0 +1,66 @@
+---
+layout: post
+title: "구조를 살리는 웹사이트 디자인"
+date: 2006-11-06 09:30:10.000000000 +09:00
+type: post
+published: true
+status: publish
+categories:
+- IT/웹
+tags:
+- "구조"
+- "디자인"
+- "웹표준"
+meta:
+  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:9:"Structure";}i:2;O:8:"stdClass":1:{s:3:"tag";s:11:"WebStandard";}}
+  _edit_last: '2'
+  _wp_rp_related_posts_query_result_cache_5: a:10:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:17:"74.74901490915397";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"23";s:5:"score";s:17:"37.30567019093199";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"54";s:5:"score";s:17:"37.05214194568188";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"33";s:5:"score";s:18:"26.119615444541004";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"34";s:5:"score";s:18:"23.518911581953954";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"19";s:5:"score";s:18:"23.518911581953954";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"59";s:5:"score";s:18:"23.072624479325533";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"48";s:5:"score";s:17:"22.01136797714991";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"22";s:5:"score";s:17:"22.01136797714991";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"13";s:5:"score";s:17:"22.01136797714991";}}
+  _wp_rp_related_posts_query_result_cache_expiration: '1399324553'
+  dsq_thread_id: '1110347953'
+  Views: '205'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1411228756;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:23;}i:1;a:1:{s:2:"id";i:37;}i:2;a:1:{s:2:"id";i:24;}}}}
+  _wpas_skip_6678231: '1'
+  _wpas_skip_8685690: '1'
+  _wpas_skip_8685695: '1'
+  _wpas_skip_8685694: '1'
+  _wpas_skip_8685692: '1'
+  _wpcom_is_markdown: '1'
+  numbering_htt: '0'
+  _aioseop_opengraph_settings: a:12:{s:32:"aioseop_opengraph_settings_title";s:0:"";s:31:"aioseop_opengraph_settings_desc";s:0:"";s:36:"aioseop_opengraph_settings_customimg";s:0:"";s:37:"aioseop_opengraph_settings_imagewidth";s:0:"";s:38:"aioseop_opengraph_settings_imageheight";s:0:"";s:32:"aioseop_opengraph_settings_video";s:0:"";s:37:"aioseop_opengraph_settings_videowidth";s:0:"";s:38:"aioseop_opengraph_settings_videoheight";s:0:"";s:35:"aioseop_opengraph_settings_category";s:7:"article";s:34:"aioseop_opengraph_settings_section";s:0:"";s:30:"aioseop_opengraph_settings_tag";s:0:"";s:34:"aioseop_opengraph_settings_setcard";s:7:"summary";}
+  _custom_gallery_link_images: 'off'
+  _spost_short_title: ''
+author:
+  login: resistan
+  email: resistan@gmail.com
+  display_name: "조현진"
+  first_name: "현진"
+  last_name: "조"
+---
+<p>일반적으로 웹사이트를 디자인하기 위해서 사용하는 화면 분할 방식은 Grid system이다. 이는 HTML이 SGML에서 출발했던 것처럼, 출판 디자인에서 사용되던 방식이 웹사이트 디자인에 그대로 넘어온 경우다. 그러나, 인쇄물과 하이퍼텍스트의 개념이 있는 웹사이트는 분명히 그 개념과 목적에 차이가 있다. 그렇다면 웹사이트를 시각적인 면에서 더 효율적으로, 의미적으로 구성할 수 있는 방법은 무엇일까? 이 포스트는 이런 고민에서 출발하였고, Component system이라는 이름의 방법을 제시한다. 여전히 고민과 논란의 여지가 있을지 모르지만 Grid system과 비교하여 작성해본다.</p>
+<h2>Grid system</h2>
+<p>그리드 시스템은 출판물의 지면을 효율적으로 구성하기 몇개의 <strong>시각적 구역</strong>(grid)으로 갈라놓는 것이다. 이러한 그리드 시스템은 단 권으로 끝나지 않고 연속적으로 발행되는 잡지 등에서 많이 이용되고 있으며, 같은 형태의 페이지를 갖게되는 웹 사이트에서도 이용되고 있다.</p>
+<p>웹사이트에서 그리드 시스템을 도입하는 목적은, 도입대상 전체에 걸쳐 통일된 규칙에 근거한 구성을 실현하기 위해서이다. 이 그리드 시스템을 이용하여 각 페이지의 정보를 정리하고 적절한 배치를 함으로써 정보제공자와 사용자 양쪽에 다양한 이점을 제공할 수 있다. 그리드 시스템을 도입하면 전체적인 통일감을 주어 사용자의 편의를 향상시킬 뿐 아니라, 정보제공자에게도 효율적인 제작과 정보 및 구조를 쉽게 나타낼 수 있게 한다.<br />
+Grid system은 다양한 정보요소를 일정한 간격·여백을 설정하고 배치하여, 페이지상의 구조를 명시한다. 시각적으로 구조를 인지함으로써 배치된 요소의 관계성을 쉽게 파악할 수 있으며, 같은 그리드 시스템을 사용한 페이지라면, 다른 작성자가 제작한 것이라도 그리드를 통하여 공통점을 발견할 수 있게 만든다. 통일된 그리드를 이용하면 시각적인 유도 효과를 발휘하여 이미지와 정보에 대해 분류를 용이하게 하고 주목성, 가독성을 높일 수 있다.</p>
+<p>이렇듯 Grid system은 반복해서 나오는 요소에 대해 정해진 위치를 제공함으로써 사용자의 학습 효율 향상을 기대할 수 있고, 다방면에 걸친 정보 속에서 사용자가 정보를 구별/선별하는 행위를 보조하여 보다 빠르고 정확히 목적의 정보에 도달할 수 있게 만든다.<br />
+사용자의 주의를 끌어, 정보제공자가 의도한대로 정보를 전달하기 위해 그리드 시스템을 이용할 수 있다. 반복성을 이용하여, 배치된 요소와 전체의 구조를 명확히 할 수 있기 때문에 요소의 위치와 주위와의 관계성을 통해 내용 추측을 보조하고, 시각적인 시점을 설정하여 정보구조를 이해하기 위한 흐름을 창출한다.</p>
+<h2>Component system</h2>
+<p>컴포넌트 시스템은 문서의 구조를 각 구성 요소마다 몇 가지 단계로 분해 정의하고 그 조합에 의해 구조 전체를 표현하는 구성 시스템을 말한다. 이는 문서의 구조를 명확히 정의하여 컴포넌트와 영역이라는 각각의 구성을 갱신·변경 가능하게 하고 페이지 구성을 유연하게 만드는 시스템이다. 이 시스템에서는 최소한의 기준단위가 되는 요소(모듈), 요소의 조합(컴포넌트), 조합의 집합체(영역)를 정의해야 한다.</p>
+<dl>
+<dt>영역</dt>
+<dd>화면을 분할한 영역. 이 시스템에서는 시각적 분할 영역이 아니라, 기능에 따른 의미적 분할 영역이다.</dd>
+<dt>컴포넌트</dt>
+<dd>각 영역를 구성하는 요소. 컴포넌트는 복수의 모듈로 구성된다. 각 컴포넌트의 구성은 공통된 범용적인 요소(컴포넌트, 모듈)로 분해할 수 있다.</dd>
+<dd>(예:이미지, 링크, 텍스트 등 한가지의 블록과 그 집합)</dd>
+<dt>모듈</dt>
+<dd>컴포넌트를 구성하는 분할 불가능한 최소의 단위.</dd>
+<dd>(예:제목과 배너)</dd>
+</dl>
+<p>Component system은 기본 설계에 근거하여 최소한의 구성요소를 추가하고 확충하는 방식이기 때문에 확장에 탄력적으로 대응할 수 있다. 또한 범용적으로 설계된 컴포넌트를 조합시켜 다양하고 풍부하게 표현할 수 있다. 각 컴포넌트는 기본 설계에 근거하여 작성되기 때문에 이해가 쉽고 활용이 쉽다. 또 컴포넌트는 재이용 가능성이 높고 이로 인해 작업 효율을 높일 수 있다.</p>
+<p>단, 이런 일련의 작업은 구조화된 컴포넌트를 배열하기 위한 기초 설계가 튼튼할 때 가능하다. 컴포넌트를 사용하기 위한 영역의 구분은 Grid system과 함께 사용해도 좋지만, 구조적인 Markup을 통해 영역에 대한 정의를 분명히 하고, 이 영역이 디자인을 위한 Grid와 함께 사용되어야 한다. 이는 한가지 방식의 영역 정의만을 의미하지는 않으며, 내용에 따라 영역이 사용되는 형태가 바뀔 수 있다. 이런 조건에 부합될 때 좀 더 다양한 컴포넌트 조합을 통해 다양한 페이지 디자인이 가능해진다.</p>
+<hr />
+<ul>
+<li><em>이 내용은 <a title="BarCampSeoul" href="http://barcamp.org/BarCampSeoul">BarCampSeoul</a>에서 발표했던 내용이며, 본인의 아이디어가 아니라 <a title="일본항공 한국 사이트" href="http://www.jal.co.kr">일본항공 한국 사이트</a> 작업을 하면서 알게 된 방식임을 밝혀둔다.</em></li>
+<li>실무에 적용하기 위해서는 여전히 많은 고민이 필요한 점이 있다. 그래서... 토론 거리가 되었으면 하는 개인적인 바램도 있다. :)<em><br />
+</em></li>
+<li><del>BarCamp 발표자료 다운로드 : component system</del></li>
+</ul>
