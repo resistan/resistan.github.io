@@ -1,6 +1,6 @@
 # Site settings
-title: 취향의 흔적
-email: resistan@resistan.com
+title: test
+email: test
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
@@ -8,7 +8,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://resistan.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/resistan/resistan.github.io
-git_edit_address: https://github.com/resistan/resistan.github.io/blob/gh-pages
+git_edit_address: https://github.com/resistan/resistan.github.io/blob/master
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
