@@ -12,7 +12,7 @@ article: true
 		</video>
 	{% endif %}
 	{% include top.html %}
-	<div id="post-info" data-stellar-ratio="0.7">
+	<div class="post-info" data-stellar-ratio="0.7">
 		<h1>{{ page.title }}</h1>
 		{% if page.quote %}
 			<h2>{{ page.quote }}</h2>
@@ -38,23 +38,24 @@ article: true
 	</div>
 	{% endif %}{% endif %}
 </div>
-{% if page.next %}
-	{% capture footer_style %}{% if page.next.dark %}dark{% else %}clean{% endif %}{% endcapture %}
-	{% capture footer_image %}{% if page.next.image.url %}{{ site.baseurl }}{{ page.next.image.url }}{% else %}{{ site.cover }}{% endif %}{% endcapture %}
-	{% capture footer_message %}Read next{% endcapture %}
-	{% capture footer_url %}{{ site.baseurl }}{{ page.next.url }}{% endcapture %}
-	{% capture footer_title %}{{ page.next.title }}{% endcapture %}
-	{% capture footer_quote %}{{ page.next.quote }}{% endcapture %}
-{% else %}
-	{% for post in site.related_posts limit:1 %}
-		{% capture footer_style %}{% if post.dark %}dark{% else %}clean{% endif %}{% endcapture %}
-		{% capture footer_image %}{% if post.image.url %}{{ site.baseurl }}{{ post.image.url }}{% else %}{{ site.cover }}{% endif %}{% endcapture %}
-		{% capture footer_message %}Featured post{% endcapture %}
-		{% capture footer_url %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
-		{% capture footer_title %}{{ post.title }}{% endcapture %}
-		{% capture footer_quote %}{{ post.quote }}{% endcapture %}
-	{% endfor %}
+{% capture footer_style %}{% if page.previous.dark %}dark{% else %}clean{% endif %}{% endcapture %}
+{% if page.previous %}
+	{% capture footer_prev_message %}이전 글{% endcapture %}
+	{% capture footer_prev_url %}{{ site.baseurl }}{{ page.previous.url }}{% endcapture %}
+	{% capture footer_prev_title %}{{ page.previous.title }}{% endcapture %}
 {% endif %}
+{% if page.next %}
+	{% capture footer_next_message %}다음 글{% endcapture %}
+	{% capture footer_next_url %}{{ site.baseurl }}{{ page.next.url }}{% endcapture %}
+	{% capture footer_next_title %}{{ page.next.title }}{% endcapture %}
+{% endif %}
+{% for post in site.related_posts limit:1 %}
+	{% capture footer_style %}{% if post.dark %}dark{% else %}clean{% endif %}{% endcapture %}
+	{% capture footer_image %}{% if post.image.url %}{{ site.baseurl }}{{ post.image.url }}{% else %}{{ site.cover }}{% endif %}{% endcapture %}
+	{% capture footer_message %}추천 글{% endcapture %}
+	{% capture footer_url %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
+	{% capture footer_title %}{{ post.title }}{% endcapture %}
+{% endfor %}
 {% unless footer_style %}
 	{% capture footer_style %}{% if page.dark %}dark{% else %}clean{% endif %}{% endcapture %}
 {% endunless %}
@@ -62,15 +63,20 @@ article: true
 	<div id="nav-icon" style="top: 60px;" data-stellar-ratio="0.8">
 		<a class="scroll" data-speed="500" href="#article"><span class="genericon genericon-collapse"></span></a>
 	</div>
-	<div id="post-info" data-stellar-ratio="0.5" data-stellar-vertical-offset="120">
+	<div class="post-info" data-stellar-ratio="0.5" data-stellar-vertical-offset="120">
 		<h3>{{ footer_message }}</h3>
 		<a href="{{ footer_url }}">
 			<h1>{{ footer_title }}</h1>
-			{% if footer_quote %}
-				<h2>{{ footer_quote }}</h2>
-			{% endif %}
+		</a>
+		<h3>{{ footer_prev_message }}</h3>
+		<a href="{{ footer_prev_url }}">
+			<h1>{{ footer_prev_title }}</h1>
+		</a>
+		<h3>{{ footer_next_message }}</h3>
+		<a href="{{ footer_next_url }}">
+			<h1>{{ footer_next_title }}</h1>
 		</a>
 	</div>
-	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
+	{% include footer.html %}
 </footer>
 <script src="{{ site.baseurl }}/assets/js/smooth-scroll.js"></script>

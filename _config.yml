@@ -10,8 +10,9 @@ description:      'My personal blog.'
 url:              http://resistan.github.io
 baseurl:          
 commentsystem:    disqus
-disqus_shortname: resistan
+disqus:           resistan
 include:          [_pages]
+default_locale:   "ko"
 
 author:
   name:           Ian Brunelli
@@ -24,36 +25,33 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-
   - icon:         facebook
     url:          https://facebook.com/hj.soif
     desc:         Follow me on facebook
-
   - icon:         twitter
     url:          https://twitter.com/resistan
     desc:         Follow me on twitter
-
   - icon:         github
     url:          https://github.com/resistan
     desc:         Fork me on github
-
   # - icon:         googleplus-alt
   #   url:          https://google.com/+IanCamporezBrunelli
   #   desc:         Add me on google+
-
   - icon:         feed
     url:          http://resistan.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
-  - title:        Home
+  - title:        "처음"
     url:          /
-
   - title:        "소개"
     url:          /about-me
-
   - title:       "전체 글 모음"
     url:          /archives
+  - title:       "방명록"
+    url:          /guestbook
+  - title:       "개발자 좀 살려주세요"
+    url:          /savethedeveloper/
 
 copyright:
   author:         resistan
