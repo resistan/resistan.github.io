@@ -17,6 +17,16 @@ header, footer {
 	line-height: 44px;
 }
 
+.post-info .prevPost,.post-info .nextPost {
+	width:330px;
+	font-size:.8em;
+}
+.post-info .prevPost h1,.post-info .nextPost h1 {
+	font-size:24px;
+}
+.post-info .prevPost {float:left;}
+.post-info .nextPost {float:right;text-align:right;}
+
 #article, #comments {
 	width: 700px;
 	padding: 50px 0px;

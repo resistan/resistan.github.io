@@ -68,14 +68,18 @@ article: true
 		<a href="{{ footer_url }}">
 			<h1>{{ footer_title }}</h1>
 		</a>
-		<h3>{{ footer_prev_message }}</h3>
-		<a href="{{ footer_prev_url }}">
-			<h1>{{ footer_prev_title }}</h1>
-		</a>
-		<h3>{{ footer_next_message }}</h3>
-		<a href="{{ footer_next_url }}">
-			<h1>{{ footer_next_title }}</h1>
-		</a>
+		<section class="prevPost">
+			<h3>{{ footer_prev_message }}</h3>
+			<a href="{{ footer_prev_url }}">
+				<h1>{{ footer_prev_title }}</h1>
+			</a>
+		</section>
+		<section class="nextPost">
+			<h3>{{ footer_next_message }}</h3>
+			<a href="{{ footer_next_url }}">
+				<h1>{{ footer_next_title }}</h1>
+			</a>
+		</section>
 	</div>
 	{% include footer.html %}
 </footer>
