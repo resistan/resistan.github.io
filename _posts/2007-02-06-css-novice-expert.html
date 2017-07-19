@@ -36,22 +36,26 @@ author:
 <p><a title="CSS 구문과 선택자 - Hooney.net" href="http://hooney.net/2007/02/06/354/">Hooney님 글</a>에 트랙백. 일단 제목에 맞는 예제부터 보시고...</p>
 <h2>예제</h2>
 <h3>초급</h3>
-<pre class="line-height:20 lang:css decode:true" title="초급자의 CSS">.font_04  { color: #333333; font-weight: bold;}
+{% highlight css %}
+.font_04  { color: #333333; font-weight: bold;}
 .font_05  { font-family: "돋움"; font-size: 14px; color: #ffffff; font-weight: bold;}
 .font_06  { font-family: "돋움"; font-size: 12px; color: #006699; font-weight: bold;}
 .font_07  { font-size: 14px; color: #CC3333; font-weight: bold;}
 .font_08  { font-size: 14px; color: #134472; font-weight: bold;}
 .font_09  { font-family: "돋움"; font-size: 12px; color: #CC3333; font-weight: bold;}
 .font_sun  { color: red;}
-.font_sat  { color: blue;}</pre>
+.font_sat  { color: blue;}
+{% endhighlight %}
 <h3>중급</h3>
-<pre class="line-height:20 lang:css decode:true css" title="중급자의 CSS">body    { font-family:"돋움", Dotum, Arial, sans-serif; font-size:.75em; color: #333;}
+{% highlight css %}
+body    { font-family:"돋움", Dotum, Arial, sans-serif; font-size:.75em; color: #333;}
 #wrap   { width: 65em; margin: 0 auto;}
 #header { paddding: 0 1em;}
 #header p { line-height:1em;}
 #calendar { width: 80%; font-size: 1em; color: #c33;}
 #calendar .sun { color: red;}
-#calendar .sat { color: blue;}</pre>
+#calendar .sat { color: blue;}
+{% endhighlight %}
 <h2>차이점</h2>
 <ul>
 <li>초급은 클래스를 남발한다. CSS는 그저 HTML을 장식하는데 좀 더 편리한 수단에 지나지 않는다. 그래서 HTML에 class외의 관련 속성을 찾아보기 힘들다.</li>

@@ -5,7 +5,7 @@ header, footer {
 }
 
 .post-info {
-	width: 700px;
+	width: 740px;
 	left: 50%;
 	margin-left: -350px;
 	bottom: 100px;
@@ -22,7 +22,7 @@ header, footer {
 	text-align:center;
 }
 .post-info .prevPost,.post-info .nextPost {
-	width:330px;
+	width:340px;
 	font-size:.8em;
 }
 .post-info .prevPost h1,.post-info .nextPost h1 {
@@ -32,7 +32,7 @@ header, footer {
 .post-info .nextPost {float:right;text-align:right;}
 
 #article, #comments {
-	width: 700px;
+	width: 740px;
 	padding: 50px 0px;
 	left: 50%;
 	margin-left: -350px;
@@ -74,7 +74,7 @@ header, footer {
 }
 
 .pagination, #post-list {
-	width: 700px;
+	width: 740px;
 	left: 50%;
 	margin-left: -350px;
 }

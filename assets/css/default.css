@@ -81,6 +81,9 @@ h3 {
 	margin: 15px 0px;
 	text-shadow:#333 5px 5px 5px;
 }
+.post-info .asides {
+	text-shadow:#333 0 1px 3px;
+}
 
 .post-info h2:before {
 	content: "“";
@@ -529,6 +532,26 @@ pre code {
 #post-list a:hover {
 	color: #2a7ead;
 	text-decoration: none;
+}
+
+.imageCaption,.boxed {
+	font-family:sans-serif;
+	font-size:.85em;
+}
+.boxed {
+	max-width:45%;
+}
+.boxed.alignLeft {
+	float:left;
+	margin:1em 1.5em 1em 0;
+	padding:1em;
+	padding-left:0;
+}
+.boxed.alignRight {
+	float:right;
+	margin:1em 0 1em 1.5em;
+	padding:1em;
+	padding-right:0;
 }
 
 .post-description {

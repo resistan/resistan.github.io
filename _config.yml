@@ -15,8 +15,8 @@ include:          [_pages]
 default_locale:   "ko"
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           resistan
+  url:            https://resistan.com
 
 paginate:         5
 
