@@ -3,11 +3,11 @@ layout: page
 title: "소개"
 date: 
 type: page
-published: false
-status: pending
+published: true
+status: publish
 categories: []
 tags: []
-permalink: about/
+permalink: about-me/
 meta:
   _wp_page_template: default
   _utw_tags_0: no tags
@@ -28,13 +28,14 @@ author:
 ### 조현진 / Cho,Hyeonjin
 
 * 목마름 / 중독 / resistan
-* <a href="http://webstandards.or.kr">한국 웹 표준 프로젝트(WSK)</a> 회원
-* <a href="http://kwag.net">한국 웹 접근성 그룹(KWAG)</a> 회원
-* 前 <a href="http://wah.or.kr">웹 접근성 연구소</a> 기술자문위원
-* 前 <a href="http://www.megacorp.co.kr">Megazone</a> SA 팀장
+* <a href="http://webstandards.or.kr" target="_blank" title="새창">한국 웹 표준 프로젝트(WSK)</a> 회원
+* <a href="http://kwag.net" target="_blank" title="새창">한국 웹 접근성 그룹(KWAG)</a> 회원
+* 前 <a href="http://wah.or.kr" target="_blank" title="새창">웹 접근성 연구소</a> 기술자문위원
+* 前 <a href="http://www.megacorp.co.kr" target="_blank" title="새창">Megazone</a> SA 팀장
 * 前 team WE 웹 표준/웹 접근성 컨설턴트
-* 前 <a href="http://www.acg.co.kr/">ACG</a> FD 팀장
-* (주)오마이트립 근무 중<br />
+* 前 <a href="http://www.acg.co.kr/" target="_blank" title="새창">ACG</a> FD 팀장
+* 前 (주)오마이트립 UX팀
+* <a href="http://regularbold.co.kr" target="_blank" title="새창">RegularBold</a> UI기술실장
 
 ### 활동
 * <a href="http://barcamp.org/BarCampSeoul">BarCampSeoul</a> 1st "<a href="/structured-web-design/">구조를 살리는 웹 사이트 디자인</a>" 발표

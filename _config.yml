@@ -24,6 +24,11 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
+
+  - icon:         facebook
+    url:          https://facebook.com/hj.soif
+    desc:         Follow me on facebook
+
   - icon:         twitter
     url:          https://twitter.com/resistan
     desc:         Follow me on twitter
@@ -44,14 +49,17 @@ menu:
   - title:        Home
     url:          /
 
-  - title:        About
-    url:          /about
+  - title:        "소개"
+    url:          /about-me
+
+  - title:       "전체 글 모음"
+    url:          /archives
 
 copyright:
   author:         resistan
   url:            http://resistan.github.io
   type_title:     Some rights reserved
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+  type_url:       http://creativecommons.org/licenses/by-nc-nd/2.0/kr/
 
 parallax:         false
 
