@@ -64,18 +64,24 @@ article: true
 		<a class="scroll" data-speed="500" href="#article"><span class="genericon genericon-collapse"></span></a>
 	</div>
 	<div class="post-info" data-stellar-ratio="0.5" data-stellar-vertical-offset="120">
-		<h3>{{ footer_message }}</h3>
-		<a href="{{ footer_url }}">
-			<h1>{{ footer_title }}</h1>
-		</a>
-		<h3>{{ footer_prev_message }}</h3>
-		<a href="{{ footer_prev_url }}">
-			<h1>{{ footer_prev_title }}</h1>
-		</a>
-		<h3>{{ footer_next_message }}</h3>
-		<a href="{{ footer_next_url }}">
-			<h1>{{ footer_next_title }}</h1>
-		</a>
+		<section class="recommend">
+			<h3>{{ footer_message }}</h3>
+			<a href="{{ footer_url }}">
+				<h1>{{ footer_title }}</h1>
+			</a>
+		</section>
+		<section class="prevPost">
+			<h3>{{ footer_prev_message }}</h3>
+			<a href="{{ footer_prev_url }}">
+				<h1>{{ footer_prev_title }}</h1>
+			</a>
+		</section>
+		<section class="nextPost">
+			<h3>{{ footer_next_message }}</h3>
+			<a href="{{ footer_next_url }}">
+				<h1>{{ footer_next_title }}</h1>
+			</a>
+		</section>
 	</div>
 	{% include footer.html %}
 </footer>
