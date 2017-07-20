@@ -8,7 +8,7 @@ title:            취향의 흔적
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://resistan.github.io
-baseurl:          http://resistan.github.io
+baseurl:          
 commentsystem:    disqus
 disqus:           resistan
 include:          [_pages]
