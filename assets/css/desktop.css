@@ -86,3 +86,19 @@ header, footer {
 table {
 	width: 100%;
 }
+
+.boxed {
+	max-width:45%;
+}
+.boxed.alignLeft {
+	float:left;
+	margin:1em 1.5em 1em 0;
+	padding:1em;
+	padding-left:0;
+}
+.boxed.alignRight {
+	float:right;
+	margin:1em 0 1em 1.5em;
+	padding:1em;
+	padding-right:0;
+}
