@@ -539,9 +539,19 @@ pre code {
 	font-size:.85em;
 }
 .imageCaption img {
-	display:block;
+	display:inline-block;
 	margin:0 0 .5em;
 }
+.alignRight {
+	text-align:right;
+}
+.alignCenter {
+	text-align:center;
+}
+.alignCenter img {
+	margin:0 auto;
+}
+
 .boxed {
 	max-width:45%;
 }
@@ -557,6 +567,12 @@ pre code {
 	padding:1em;
 	padding-right:0;
 }
+.alignLeft {
+	text-align:left;
+}
+.linkPreview {margin: 0;padding:0;border: 1px solid #CCC;}
+.linkPreview img {float:left;margin:10px 10px 10px 0;}
+#article .linkPreview .preview_footer {clear:left;margin:0;padding:5px 10px;background:#eaeaea;font-size:.85em;}
 
 .post-description {
 	color: #777;

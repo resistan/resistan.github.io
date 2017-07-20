@@ -3,7 +3,7 @@ layout: post
 title: "웹 표준 스터디 멤버 모집"
 date: 2010-07-05 02:19:10.000000000 +09:00
 type: post
-published: false
+published: true
 status: publish
 categories:
 - IT/웹
@@ -39,6 +39,8 @@ author:
   first_name: "현진"
   last_name: "조"
 ---
-<p>[하드코딩하는 사람들](http://cafe.naver.com/hacosa.cafe)의 신림소모임 중에서 신대방역 중심으로(꼭 신대방역 인근이 아니어도 괜찮습니다만) [웹 표준 스터디하실 분들을 모집](http://cafe.naver.com/hacosa.cafe?iframe_url=/ArticleRead.nhn%3Fclubid=12566436%26page=1%26menuid=144%26boardtype=L%26articleid=17613%26referrerAllArticles=false)합니다.</p>
-<p>현재 다섯 명이 모인 상태로, 최대 여덟명까지 고려 중이니 앞으로 선착순 세 분까지만 모시겠습니다. 스터디는 기초부터 끝판 대장까지 갈 계획이기에 초심자를 우선적으로 환영할 것 같습니다.</p>
-<p>스터디에 참여하고 싶은 분들께서는 키포인터(keypointer]앳[네이버닷컴)으로 메일 주시면 되겠습니다.</p>
+[하드코딩하는 사람들](http://cafe.naver.com/hacosa.cafe)의 신림소모임 중에서 신대방역 중심으로(꼭 신대방역 인근이 아니어도 괜찮습니다만) [웹 표준 스터디하실 분들을 모집](http://cafe.naver.com/hacosa.cafe?iframe_url=/ArticleRead.nhn%3Fclubid=12566436%26page=1%26menuid=144%26boardtype=L%26articleid=17613%26referrerAllArticles=false)합니다.
+
+현재 다섯 명이 모인 상태로, 최대 여덟명까지 고려 중이니 앞으로 선착순 세 분까지만 모시겠습니다. 스터디는 기초부터 끝판 대장까지 갈 계획이기에 초심자를 우선적으로 환영할 것 같습니다.
+
+스터디에 참여하고 싶은 분들께서는 키포인터(keypointer]앳[네이버닷컴)으로 메일 주시면 되겠습니다.
