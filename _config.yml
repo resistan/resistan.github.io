@@ -1,7 +1,7 @@
 # Dependencies
 markdown:	kramdown
 # Permalinks
-permalink:	:title
+permalink:	:title/
 
 # Setup
 title:            취향의 흔적
