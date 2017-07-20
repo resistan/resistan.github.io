@@ -5,6 +5,7 @@ date: 2016-07-20 14:14:42.000000000 +09:00
 type: post
 published: true
 status: publish
+comment: true
 image:
   url: media/P1050709.jpg
 categories:
