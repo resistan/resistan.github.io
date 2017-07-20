@@ -7,7 +7,7 @@ permalink:	:title
 title:            취향의 흔적
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://resistan.github.io
+url:              http://resistan.com
 baseurl:          
 commentsystem:    disqus
 disqus:           resistan
