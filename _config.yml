@@ -48,14 +48,14 @@ menu:
     url:          /about-me
   - title:       "전체 글 모음"
     url:          /archives
-  - title:       "방명록"
-    url:          /guestbook
+  # - title:       "방명록"
+  #   url:          /guestbook
   - title:       "개발자 좀 살려주세요"
     url:          /savethedeveloper/
 
 copyright:
   author:         resistan
-  url:            http://resistan.github.io
+  url:            http://resistan.com
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc-nd/2.0/kr/
 
