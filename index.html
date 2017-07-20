@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<!-- <header class="clean" style="height: 350px; background-image: url({{ site.cover }}); {% if site.parallax != true %}background-attachment: scroll;{% endif %}" data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
+	{% include top.html %}
+	<a href="{{ site.url }}{{ site.baseurl }}">
+		<div id="home-title" class="site-icon-home" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.5"></div>
+	</a>
+</header> -->
+<header class="clean" style="height: 350px; background-image: url(/media/22108960371_78855d6007_b.jpg); {% if site.parallax != true %}background-attachment: scroll;{% endif %}" data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
+	{% include top.html %}
+	<a href="{{ site.url }}{{ site.baseurl }}">
+		<div id="home-title" class="site-icon-page" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.7"></div>
+	</a>
+	<div class="post-info" style="bottom: 30px; text-align: center; line-height: 45px;" data-stellar-ratio="0.7">
+		<h1>취향의 흔적</h1>
+	</div>
+</header>
+<div id="middle">
+<div id="post-list">
+	{% for post in paginator.posts %}
+		<div>
+			<span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+			<p class="post-descrip`tion">{% if post.quote %}{{ post.quote }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+		</div>
+		<br>
+	{% endfor %}
+</div>
+<nav class="pagination" role="navigation">
+	{% if paginator.next_page %}
+		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; 이전 글</a>
+	{% endif %}
+	<span class="page-number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
+	{% if paginator.previous_page %}
+		{% if paginator.page == 2 %}
+			<a class="older-posts" href="{{ site.baseurl }}/">최근 글 &rarr;</a>
+		{% else %}
+			<a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">최근 글 &rarr;</a>
+		{% endif %}
+	{% endif %}
+</nav>
+</div>
+<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
+	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
+</footer>
