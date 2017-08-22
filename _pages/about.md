@@ -70,5 +70,6 @@ author:
 * 삼성닷컴 웹 접근성 개선
 * 현대커머셜DX 리뉴얼
 * 현대캐피탈DX 리뉴얼
+* CJ Grandshopping Mexico 리뉴얼
 
 <div class="more">* <a href="/about-naxer/">낙서넷에 관해</a></div>
