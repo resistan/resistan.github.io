@@ -9,19 +9,14 @@ permalink: /search/
 				<div id="home-title" class="site-icon-page" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.7"></div>
 		</a>
 		<div class="post-info" style="bottom: 30px; text-align: center; line-height: 45px;" data-stellar-ratio="0.7">
-				<h1><input type="text" id="search-input" placeholder="검색어를 입력하세요..."></h1>
+				<h1>검색의 생활화</h1>
 		</div>
 </header>
 <div id="middle">
 		<div id="article">
-				<div id="results">
-						<h1><!-- `key` listing for `value` --></h1>
-						<ul class="results">
-								<!-- results lists -->
-						</ul>
-				</div>
-				<div id="search-container">
-						<input type="text" id="search-input" placeholder="search...">
+				<div id="search-page">
+						<p><input type="text" id="search-input" placeholder="검색어를 입력하세요..."></p>
+						<h2>검색 결과</h2>
 						<ul id="results-container"></ul>
 				</div>
 		</div>
@@ -38,7 +33,7 @@ SimpleJekyllSearch({
 		json: '{{ site.baseurl }}/search.json',
 		searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
 		noResultsText: '검색 결과가 없습니다',
-		limit: 10,
+		limit: 20,
 		fuzzy: false,
 		exclude: ['Welcome']
 })
