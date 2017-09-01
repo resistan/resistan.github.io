@@ -11,5 +11,5 @@
 * [x] 워드프레스 데이터 이전
 * [x] disqus 커멘트 통합
 * [x] 한국어용 웹 폰트 적용
-* [x] 검색 기능
+* [x] 검색 기능: [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) 사용
 * [ ] 카테고리, 태그 추가
