@@ -40,9 +40,6 @@ social:
   - icon:         feed
     url:          http://resistan.github.io/atom.xml
     desc:         Subscribe to my feed
-  - icon:         search
-    url:          /search
-    desc:         Search on this blog
 
 menu:
   - title:        "처음"
