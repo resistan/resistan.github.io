@@ -103,11 +103,8 @@ table {
 	padding-right:0;
 }
 
-#search-page p {
-	width: 10em;
-	display: block;
-	margin: 0 auto;
-}
 #search-input {
+	width: 12em;
+	display: block;
 	font-size: 2em;
 }
