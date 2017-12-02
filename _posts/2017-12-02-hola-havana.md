@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 반갑다 아바나 - 쿠바 여행기 1
-date: 2017-09-20 13:26:20.000000000 +09:00
+date: 2017-12-02 20:00:00.000000000 +09:00
 type: post
 published: true
-status: draft
+status: publish
 categories:
 - "여행"
 tags:
@@ -48,7 +48,7 @@ author:
 
 ### 숙소
 
-쿠바에서 여행객을 위한 숙소는 까사(Casa)라고 하는 민박집이 절대다수라고 보면 된다. 물론 우리가 익히 아는 형태의 호텔도 있지만, 호텔 숙박료는 여느 나라와 다를 것도 새로울 것도 없다고 한다. 까사는 정부에서 허가받은 사람이 자신이 사는 집의 방을 빌려주는 것이라고 보면 된다. 도미토리 형태도 있고, 방을 빌릴 수 있는 곳도 있는데 가격은 미화 10~40불 수준. 조식 여부에 따라 가격이 달라지고, 투숙할 때 숙소 주인과 정하면 된다.
+쿠바에서 여행객을 위한 숙소는 까사(Casa)라고 하는 민박집이 절대다수라고 보면 된다. 물론 우리가 익히 아는 형태의 호텔도 있지만, 호텔 숙박료는 여느 나라와 다를 것도 새로울 것도 없다고 한다. 까사는 정부에서 허가받은 사람이 자신이 사는 집의 방을 빌려주는 것이다. 도미토리 형태도 있고, 방을 빌릴 수 있는 곳도 있는데 가격은 미화 10~40불 수준. 조식 여부에 따라 가격이 달라지고, 투숙할 때 숙소 주인과 정하면 된다.
 
 <div class="imageCaption alignCenter">
 <img src="https://lh3.googleusercontent.com/8mEVFpEltuT0qkXKTgy6f4TjFZKnAH_tscqmmIMfFUg4Uj7AIgbYuAi7L8PgLveupaf32jnFNR6pf4Rza669GEdU5JFRuZHeEN_AOCZe6QIxCXbSEbfz1ISw43FPQvr_Ddpeq_EkWkZ0S1nmFoZv5U6tsFdFlhnOiePw6LNwAG7SMDhFiQRcXYEoR-1gkbl5QH0G3Cie21gXKUbNutomY2_0oLr3D--fDWdlgPlYDRB0Qb9bwIBQSvdujn6i42fceSm0yR-SRd69HVfoBZFA_v4Dh8tPLqg288GU9XIrC9-Pm8iTw7vxAem6XpSWjqgP1-W81xoP8770J1TllV-8MWj6YPH_CMorOaEk84wuwQpAd0bJ8izgl117OA68O1S-cDVyE8GDKNsewvZTt2tg8W8lNZCOvyDGyOlvoY-Zig9skzuMsxkXO9ThtPpurKCfhRKu-KiYJN-Pt9r_3V5RhL2jsvHaMF43bX-eDlzeCe31qfFopH5GZ8qSWkmqunxB8MNrRJxIza8DgUEC_Wa78pfWFwLtR0bJjKzHvyjIt4IxI72Bf8ysS4uLQyLR37_j6xro82VOQwPoZVf2r7pZKV_HvUwtEQFQIRYOpMGcJ8CCLAumwPNeLzrTBmu8LSxIyY9tQJTTR8--MU1AlRn2eZacAAZ0-UkNUHp_=w1789-h1007-no" alt="현관에 붙어있는 까사 표시. 기둥에 지붕만 얹어둔 것 같은 심볼이다">
