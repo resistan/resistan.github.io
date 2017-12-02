@@ -83,9 +83,4 @@ author:
 * 토론토
 * 델리, 자이살메르, 우다이푸르, 조드푸르, 아그라, 바라나시, 다질링, 암리차르
 
-
-<div class="movieFull">
-<iframe src="https://www.youtube.com/embed/8aZNdeHGcm8" frameborder="0" allowfullscreen ></iframe>
-</div>
-
 <div class="more">* <a href="/about-naxer/">낙서넷에 관해</a></div>
