@@ -108,7 +108,7 @@ author:
 	<p>말레꼰에서 바라본 델 모로(Del morro)</p>
 </div>
 
-양쪽 끝으로 과거의 흔적과 멀리 보이는 베다도(신도시)가 위치한, 말레꼰은 공존의 공간이었다. 그저 열려있다는 느낌이었다. 델 모로 쪽의 끝에서 낚시 하는 사람들이 있었다. 헤밍웨이도 이 바다의 어디 쯤에서 낚시를 즐겼겠지.
+양쪽 끝으로 델 모로와 베다도(신도시)가 위치한, 말레꼰은 공존의 공간이었다. 그저 열려있다는 느낌이었다. 델 모로 쪽의 끝에서 낚시 하는 사람들이 있었다. 헤밍웨이도 이 바다의 어디 쯤에서 낚시를 즐겼겠지.
 
 <div class="imageCaption alignCenter">
 	<img src="https://lh3.googleusercontent.com/AJ3qAzJ-MtVlWOKVnf40emncSAgpe6OyL8fE34stjsD40kNU-RyPJpJY1ce5ITpCjX13QEOvxagx_eUyIOjW6xOgNxuv_Vkf9s7KSzRUAlOiPy0LLMTqIr22G6jXhDZkr-YkGp98BgBOmfwW-Nn2JOA7i3gwo7CqmHkQ3p58mfTLXNb67Ryg4ERIzRvqdwmBkWdQdiGvC8kh51Ifp2J3iQIazEcK-MmNzwxed5zXFSHrCUOHzg1-us3Wmzl1y3w7VJz2xOE51qEyH4mzn-lJXpbEuY51zX8U99sUQEmNllQ6NN6NaWN-f2pKD7epga5ZfypKQaUTDVdML9r-tzUAHUxAagSFPjwL6I9HL9qnu9V2tkGFAQCeFZp_m4LbB15Komjwbae_c0HFvCVn0ZsSIT7UDfN9KvlTs5d0nQdzJAQtAff3HS3U4C7Zacker8nJMOy7RqaoIt6HBSYzqhufMAEC26SoR2HViIz0wzVc8E3O0ZfUX7-yn982mr71C731w95YZTyCDW0RVydwVg08MwiEfFbeE-skakgvhwOi4qJiPa3twwWt58vzTTa6rvlyx5lDr1icYnCiyRRexM_xC-27ixnur5JxQgEnYPobhaw=w1966-h852-no" alt="말레꼰의 끝에서 낚시 중인 사람들">
@@ -127,4 +127,4 @@ author:
 
 ## 뱀발
 
-이 글 한 편을 쓰는데 9월부터 거의 2개월이 걸렸다. 여행기는 이제 시작인데, 언제 완결할 수 있을지...
+이 글 한 편을 쓰는데 9월부터 거의 2개월이 걸렸다. 사진을 보면서 여정을 다시 떠올려보는 중인데, 첫 날의 두어시간을 이렇게 길게 쓰다니. 언제 완결할 수 있을지...
