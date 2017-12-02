@@ -112,18 +112,18 @@ author:
 
 <div class="imageCaption alignCenter">
 	<img src="https://lh3.googleusercontent.com/AJ3qAzJ-MtVlWOKVnf40emncSAgpe6OyL8fE34stjsD40kNU-RyPJpJY1ce5ITpCjX13QEOvxagx_eUyIOjW6xOgNxuv_Vkf9s7KSzRUAlOiPy0LLMTqIr22G6jXhDZkr-YkGp98BgBOmfwW-Nn2JOA7i3gwo7CqmHkQ3p58mfTLXNb67Ryg4ERIzRvqdwmBkWdQdiGvC8kh51Ifp2J3iQIazEcK-MmNzwxed5zXFSHrCUOHzg1-us3Wmzl1y3w7VJz2xOE51qEyH4mzn-lJXpbEuY51zX8U99sUQEmNllQ6NN6NaWN-f2pKD7epga5ZfypKQaUTDVdML9r-tzUAHUxAagSFPjwL6I9HL9qnu9V2tkGFAQCeFZp_m4LbB15Komjwbae_c0HFvCVn0ZsSIT7UDfN9KvlTs5d0nQdzJAQtAff3HS3U4C7Zacker8nJMOy7RqaoIt6HBSYzqhufMAEC26SoR2HViIz0wzVc8E3O0ZfUX7-yn982mr71C731w95YZTyCDW0RVydwVg08MwiEfFbeE-skakgvhwOi4qJiPa3twwWt58vzTTa6rvlyx5lDr1icYnCiyRRexM_xC-27ixnur5JxQgEnYPobhaw=w1966-h852-no" alt="말레꼰의 끝에서 낚시 중인 사람들">
-	<p>렌즈에 신경을 안썼더니... 망했어요...</p>
+	<p>렌즈에 신경을 안썼더니... 망했어요.JPG</p>
 </div>
 
 베다도 방향으로 걷다 보니 <a href="https://flic.kr/p/LYdKeC" target="_blank" title="새창">트럼펫을 연습하던 아저씨</a>가 있었는데, 풍경에 넣으려 카메라를 들면 악기를 내리고 빤히 쳐다보길래 좀 미안했다. <del>인물이 들어가면 물어보고 찍자</del>
 
-거리 곳곳에서 만나는 올드카, 다채로운 듯 비슷한 색으로 칠해진 건물들.
-
-반갑다 아바나.
-
 <div class="alignCenter">
 	<img src="//c1.staticflickr.com/6/5647/30059954401_3ca53a9d25_h.jpg" alt="빠세오 델 쁘라도에서 만난 반짝이는 올드 비틀">
 </div>
+
+거리 곳곳에서 만나는 올드카, 다채로운 듯 비슷한 색으로 칠해진 건물들.
+
+반갑다 아바나.
 
 뱀발
 
