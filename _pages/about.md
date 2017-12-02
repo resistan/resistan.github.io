@@ -72,4 +72,20 @@ author:
 * 현대캐피탈DX 리뉴얼
 * CJ Grandshopping Mexico 리뉴얼
 
+### 다녀온 곳
+
+* 사이판
+* 도쿄
+* 오사카, 교토, 고베
+* 씨엠립과 인근
+* 상하이, 항저우, 시탕
+* 아바나, 트리니다드, 시엔푸에고스, 비냘레스
+* 토론토
+* 델리, 자이살메르, 우다이푸르, 조드푸르, 아그라, 바라나시, 다질링, 암리차르
+
+
+<div class="movieFull">
+<iframe src="https://www.youtube.com/embed/8aZNdeHGcm8" frameborder="0" allowfullscreen ></iframe>
+</div>
+
 <div class="more">* <a href="/about-naxer/">낙서넷에 관해</a></div>

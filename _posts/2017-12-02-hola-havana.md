@@ -13,7 +13,7 @@ tags:
 - "쿠바"
 - "아바나"
 image:
-      url: https://lh3.googleusercontent.com/jZgEuHfxht856H_Q4wCfa8hM04MKJITwvUrM2S07Ff_ktBmGB-Fvs-YvjuGt7ZocP2YQs3dHwHJ9y2I8YxKu2gcYKHIJCYfmJCd0IMGDa0nA2H632uf0VVUP32o0oHA44SOAa1gbUzGaM4aFfrJvtYqbZUvl2WVHNyhEkuSHElQ5iOPWQDrL-pwZxhC5msE6F3CZIQzEXbvOzoxv5CK8mrqwcOnc5GNh9ki9966sxfTeSB0vw5qrzwfdQJDfyo2mPWo_kZtnOgPjUe8WYUp6G_-wwyO8KjIOZhoTKPYpb5znMEAVHamxjsfflbnOlO8m7zuw2Mi8i39_jzTCVyvd_iDGGGY6qcpFypquol3sVdLbMoeuunbdWaXljbGI6FR7gMiFgkub4-XIGprdWuagHGolrfVShNAB5wkVN-J66enjMI1bessnWiz1tictFWdFOFotS5sU2_xy3ff402RLJ43RUSnnj1rZDyiMcbnyC7yufwbWPoOClN6Ffau-khcmshQ3EV5OrhME4YBUWXONM__rbnVleCj4BE0om3xUqEWs8n_4ABj6bVrHexcIsGKh2QOzPS6aDxNxo5CnRCLOC0H5WkCNKyWKVcmRWUULImk=w1937-h1089-no
+      url: https://c1.staticflickr.com/8/7774/30059935651_9d8adec30c_h.jpg
 meta:
   _series_part: '2'
 author:
@@ -48,7 +48,7 @@ author:
 
 ### 숙소
 
-쿠바에서 여행객을 위한 숙소는 까사(Casa)라고 하는 민박집이 절대다수라고 보면 된다. 물론 우리가 익히 아는 형태의 호텔도 있지만, 호텔 숙박료는 여느 나라와 다를 것도 새로울 것도 없다고 한다. 까사는 정부에서 허가받은 사람이 자신이 사는 집의 방을 빌려주는 것이다. 도미토리 형태도 있고, 방을 빌릴 수 있는 곳도 있는데 가격은 미화 10~40불 수준. 조식 여부에 따라 가격이 달라지고, 투숙할 때 숙소 주인과 정하면 된다.
+쿠바에서 여행객을 위한 숙소는 까사(Casa)라고 하는 민박집이 절대다수라고 보면 된다. 물론 우리가 익히 아는 형태의 호텔도 있지만, 호텔 숙박료도 그렇고 여느 나라와 다를 것도 새로울 것도 없다고 한다. 까사는 정부에서 허가받은 사람이 자신이 사는 집의 방을 빌려주는 것이다. 도미토리 형태도 있고, 방을 빌릴 수 있는 곳도 있는데 가격은 미화 10~40불 수준. 조식 여부에 따라 가격이 달라지고, 투숙할 때 숙소 주인과 정하면 된다.
 
 <div class="imageCaption alignCenter">
 <img src="https://lh3.googleusercontent.com/8mEVFpEltuT0qkXKTgy6f4TjFZKnAH_tscqmmIMfFUg4Uj7AIgbYuAi7L8PgLveupaf32jnFNR6pf4Rza669GEdU5JFRuZHeEN_AOCZe6QIxCXbSEbfz1ISw43FPQvr_Ddpeq_EkWkZ0S1nmFoZv5U6tsFdFlhnOiePw6LNwAG7SMDhFiQRcXYEoR-1gkbl5QH0G3Cie21gXKUbNutomY2_0oLr3D--fDWdlgPlYDRB0Qb9bwIBQSvdujn6i42fceSm0yR-SRd69HVfoBZFA_v4Dh8tPLqg288GU9XIrC9-Pm8iTw7vxAem6XpSWjqgP1-W81xoP8770J1TllV-8MWj6YPH_CMorOaEk84wuwQpAd0bJ8izgl117OA68O1S-cDVyE8GDKNsewvZTt2tg8W8lNZCOvyDGyOlvoY-Zig9skzuMsxkXO9ThtPpurKCfhRKu-KiYJN-Pt9r_3V5RhL2jsvHaMF43bX-eDlzeCe31qfFopH5GZ8qSWkmqunxB8MNrRJxIza8DgUEC_Wa78pfWFwLtR0bJjKzHvyjIt4IxI72Bf8ysS4uLQyLR37_j6xro82VOQwPoZVf2r7pZKV_HvUwtEQFQIRYOpMGcJ8CCLAumwPNeLzrTBmu8LSxIyY9tQJTTR8--MU1AlRn2eZacAAZ0-UkNUHp_=w1789-h1007-no" alt="현관에 붙어있는 까사 표시. 기둥에 지붕만 얹어둔 것 같은 심볼이다">
@@ -71,7 +71,7 @@ author:
 
 <div class="imageCaption alignCenter">
 <img src="https://lh3.googleusercontent.com/51FQOp9OcZYioKayXx2Na4ty-Okb8cqeQI-6lgnPrBo0CNt-oFL0xr0gp1V3iRcIYtNv8C-ZvYrk-ivTUoyX9009IvgByZi1L6FL0xKSmp-8vBQtuN-Qiwvq6UBGEllcutsqqVlQrs06dLwtOE9NGOQuEWzIN4wGeJGPx5C7AB_VJl8sB00zFhIBf6ZwNIQKRz4OE-mNohQoJkbh0-z_yoJw1QAPZRjhXyA8LsBSHkQchKl_BOKX_Ec6Du3mIC7qWo7HDQEkZAI6rHobbdF5E_TF04s8XaPi3WGXWqiEBX-LHn751_6sonTeRs_zv8Dl-h-USZlvRZKtcKlYZiDuPI3svXGPBdgWtqpSvo7V2kEEpqGD9yCmS2pnYEFgvPB884WXg8KHZpq1YuBWwTZ3c-nQZl9Fw7QpS8Dd1XvP9xzfExy8WjReVsORGy5yEMwoLordwB0vIeb5NBwQow-5kGi9oeBZB135LTS9w6Moc8KKQwzA2enKGcm_jFeWG7yWopEqoxXqUVmB0WUrPTX5xgWs8Qu7f8nG2gOJno7aetrJl8TOalXPTOn2tW1tqrnQ-scrBzWgJTMOXsTdc2sTKOhe-U-VTJGuYQR7oxA71Z4LugEDPnuAZHywzXSsguYk2MQDhwbLUokw2AMaod3Dim6Qngz3DU1w9CMH=w1452-h1089-no" alt="아이데 까사의 조식">
-<p>조식을 먹기로 하면, 몇 시에 먹을지 미리 조율해둬야 한다. 사진의 빵은 아마 정부 배급품일 것 같은데 좀 딱딱한 편이다.</p>
+<p>조식을 먹기로 하면, 몇 시에 먹을지 미리 조율해둬야 한다. 사진의 빵은 아마 정부 배급품인 것 같은데 좀 딱딱하다.</p>
 </div>
 
 조식의 면면을 보면 빵, 과일, 에그 스크램블, 주스, 커피, 우유 등 조리가 많이 필요하지 않은 음식이 대부분이었다. 둘이 먹기엔 좀 푸짐해서 남겨야 했는데 유기농법의 선진국답게 제철 과일은 맛있었다.
@@ -125,6 +125,6 @@ author:
 	<img src="//c1.staticflickr.com/6/5647/30059954401_3ca53a9d25_h.jpg" alt="빠세오 델 쁘라도에서 만난 반짝이는 올드 비틀">
 </div>
 
-## 뱀발
+뱀발
 
 이 글 한 편을 쓰는데 9월부터 거의 2개월이 걸렸다. 사진을 보면서 여정을 다시 떠올려보는 중인데, 첫 날의 두어시간을 이렇게 길게 쓰다니. 언제 완결할 수 있을지...

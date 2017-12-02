@@ -552,13 +552,30 @@ pre code {
 .alignCenter img {
 	margin:0 auto;
 }
-
 .alignLeft {
 	text-align:left;
 }
 .linkPreview {margin: 0;padding:0;border: 1px solid #CCC;}
 .linkPreview img {float:left;margin:10px 10px 10px 0;}
 #article .linkPreview .preview_footer {clear:left;margin:0;padding:5px 10px;background:#eaeaea;font-size:.85em;}
+
+.movieFull {
+	position: relative;
+	width:100%;
+}
+.movieFull iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	width:100%;
+}
+.movieFull:before {
+	content:"";
+	display:block;
+	padding-top:56%;
+}
 
 .post-description {
 	color: #777;
