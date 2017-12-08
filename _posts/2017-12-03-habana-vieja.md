@@ -35,7 +35,7 @@ author:
 
 다만, 모네다는 쿡으로 환전한 후에 추가로 환전해야 하는데, 단위가 다르다 보니 한 번에 많이 바꾸면 정말 많은 지폐를 가지고 다녀야하니 조금씩 바꾸는 쪽을 추천한다.
 
-<div class="alignCenter">
+<div class="imageCaption alignCenter">
 <img src="https://c1.staticflickr.com/8/7761/29515937944_40842d3a9f_h.jpg" alt="뜨거운 태양이 내리쬐는 아바나의 골목">
 <p>오전 10시도 안 됐는데 아바나는 달아오르기 시작한다.</p>
 </div>

@@ -90,6 +90,10 @@ table {
 .boxed {
 	max-width:45%;
 }
+.boxed img + img {
+	display:block;
+	margin:1em 0;
+}
 .boxed.alignLeft {
 	float:left;
 	margin:1em 1.5em 1em 0;

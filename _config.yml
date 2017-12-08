@@ -70,3 +70,8 @@ google_analytics:  UA-251544-2
 theme_color:       7E9576
 
 gems: [jekyll-paginate]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
