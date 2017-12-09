@@ -560,6 +560,7 @@ pre code {
 #article .linkPreview .preview_footer {clear:left;margin:0;padding:5px 10px;background:#eaeaea;font-size:.85em;}
 
 .movieFull {
+	clear:both;
 	position: relative;
 	width:100%;
 	margin:1em 0;
