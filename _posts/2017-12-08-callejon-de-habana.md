@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 아바나의 거리 - 쿠바 여행기 3
-date: 2017-12-08 13:26:20.000000000 +09:00
+date: 2017-12-09 14:59:00.000000000 +09:00
 type: post
 published: true
 status: publish
@@ -11,6 +11,7 @@ tags:
 - "여행"
 - "쿠바"
 - "아바나"
+- "길"
 image:
   url: https://c1.staticflickr.com/6/5742/29515516153_b30d1c0f93_k.jpg
 meta:
