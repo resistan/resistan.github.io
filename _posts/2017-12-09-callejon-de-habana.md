@@ -15,7 +15,7 @@ tags:
 image:
   url: https://c1.staticflickr.com/6/5742/29515516153_b30d1c0f93_k.jpg
 meta:
-  _series_part: '2'
+  _series_part: '4'
 author:
   login: resistan
   email: resistan@gmail.com
