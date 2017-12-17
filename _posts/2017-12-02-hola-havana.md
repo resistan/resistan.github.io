@@ -69,7 +69,7 @@ author:
 
 ### 조식
 
-<div class="imageCaption alignCenter">
+<div class="imageCaption">
 <img src="https://lh3.googleusercontent.com/51FQOp9OcZYioKayXx2Na4ty-Okb8cqeQI-6lgnPrBo0CNt-oFL0xr0gp1V3iRcIYtNv8C-ZvYrk-ivTUoyX9009IvgByZi1L6FL0xKSmp-8vBQtuN-Qiwvq6UBGEllcutsqqVlQrs06dLwtOE9NGOQuEWzIN4wGeJGPx5C7AB_VJl8sB00zFhIBf6ZwNIQKRz4OE-mNohQoJkbh0-z_yoJw1QAPZRjhXyA8LsBSHkQchKl_BOKX_Ec6Du3mIC7qWo7HDQEkZAI6rHobbdF5E_TF04s8XaPi3WGXWqiEBX-LHn751_6sonTeRs_zv8Dl-h-USZlvRZKtcKlYZiDuPI3svXGPBdgWtqpSvo7V2kEEpqGD9yCmS2pnYEFgvPB884WXg8KHZpq1YuBWwTZ3c-nQZl9Fw7QpS8Dd1XvP9xzfExy8WjReVsORGy5yEMwoLordwB0vIeb5NBwQow-5kGi9oeBZB135LTS9w6Moc8KKQwzA2enKGcm_jFeWG7yWopEqoxXqUVmB0WUrPTX5xgWs8Qu7f8nG2gOJno7aetrJl8TOalXPTOn2tW1tqrnQ-scrBzWgJTMOXsTdc2sTKOhe-U-VTJGuYQR7oxA71Z4LugEDPnuAZHywzXSsguYk2MQDhwbLUokw2AMaod3Dim6Qngz3DU1w9CMH=w1452-h1089-no" alt="아이데 까사의 조식">
 <p>조식을 먹기로 하면, 몇 시에 먹을지 미리 조율해둬야 한다. 사진의 빵은 아마 정부 배급품인 것 같은데 좀 딱딱하다.</p>
 </div>

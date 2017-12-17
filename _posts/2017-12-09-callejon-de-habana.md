@@ -70,7 +70,7 @@ author:
 
 우리 같은 여행객들이 다니는 곳에는 관광객을 대상으로 하는 점포가 많았고, 그런 곳은 아무래도 눈에 잘 띄었다.
 
-<div class="imageCaption alignCenter">
+<div class="imageCaption">
 	<a href="https://lh3.googleusercontent.com/a48STxToj-RU02G6Sbzkrv_yytKJ-BhTxUesMZkecdINilaphgulRvA7Ml7Zc65SCJdLvRfCVVegCFyh-1znvDdKEylofa_e1Dh3HhlgfyWwasUa93mbMa-NTD4-zdXxIecIN3Yq4XyCDNdJK1d9x_69xcQ2QF4tJ9k6PWzSsWo7XSgsRp_LLW9ASPKbMsiSETbGTlYSzUBaOdglxK8ncJP12xYEVprVf5-qftxb34XyO5YNJS7KQP-EwWI97_XxjAhw7OESzoaq_FH1lq1dGtor75ALL1L-avVL1g2R1VZGOrFk-Q2uQy0CKsrXvOldVQL1ZyJkwdoOkztIEYbX5_3DMTKN-5GumWb5GrBSv6lze5az5tY5bokA1F-86aDJHFnjb2pi-euvrwRaMHQSfUndJ8N5PG03qdHn4WmA25z-22BknbGI5V78tVWgVq05gkeKF9DmxhgWQtHB1l0-a0l3EypNdiupEjR0WlvjnCRE2OmeQPVeh0j_4eGfIo-ynhpkrovwHzZ6nld5aTgmaZHYNXFZvLKLjtza34EVjyeRvuA2XEHjQWFjnZyTaD0YTf7GyB5bErJlwZEISasbml0hwkJxdockUEGkSN-uKwU=w1505-h1046-no" target="_blank" title="크게보기-새창"><img src="https://lh3.googleusercontent.com/a48STxToj-RU02G6Sbzkrv_yytKJ-BhTxUesMZkecdINilaphgulRvA7Ml7Zc65SCJdLvRfCVVegCFyh-1znvDdKEylofa_e1Dh3HhlgfyWwasUa93mbMa-NTD4-zdXxIecIN3Yq4XyCDNdJK1d9x_69xcQ2QF4tJ9k6PWzSsWo7XSgsRp_LLW9ASPKbMsiSETbGTlYSzUBaOdglxK8ncJP12xYEVprVf5-qftxb34XyO5YNJS7KQP-EwWI97_XxjAhw7OESzoaq_FH1lq1dGtor75ALL1L-avVL1g2R1VZGOrFk-Q2uQy0CKsrXvOldVQL1ZyJkwdoOkztIEYbX5_3DMTKN-5GumWb5GrBSv6lze5az5tY5bokA1F-86aDJHFnjb2pi-euvrwRaMHQSfUndJ8N5PG03qdHn4WmA25z-22BknbGI5V78tVWgVq05gkeKF9DmxhgWQtHB1l0-a0l3EypNdiupEjR0WlvjnCRE2OmeQPVeh0j_4eGfIo-ynhpkrovwHzZ6nld5aTgmaZHYNXFZvLKLjtza34EVjyeRvuA2XEHjQWFjnZyTaD0YTf7GyB5bErJlwZEISasbml0hwkJxdockUEGkSN-uKwU=w1505-h1046-no" alt="아바나의 노점과 가게 풍경"></a>
 	<p>왼쪽 위부터 빠세오 델 쁘라도의 노점, 오비스뽀 방면의 과일 가게, 빵 가게, 센트로 아바나의 식료품점</p>
 </div>
