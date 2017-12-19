@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 트리니다드로 가던 길 위에서 - 쿠바 여행기 4
-date: 2017-12-02 13:26:20.000000000 +09:00
+date: 2017-12-20 00:40:20.000000000 +09:00
 type: post
 published: true
 status: publish
