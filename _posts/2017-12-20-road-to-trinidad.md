@@ -49,7 +49,7 @@ author:
 	<p>둘이 싸워서 대머리 아저씨가 이겼다</p>
 </div>
 
-터미널 앞에는 사람이 꽤 많았다. 우리가 터미널 건너편으로 내리자 장거리 택시 중개인인 듯한 사람들이 모여들었다. 마침 숙소에서 만난 분들과 일정이 맞아 같이 가기로 했고 일행이 열 명쯤 됐다. 배낭을 멘 동양인들이 떼로 도착하니 이게 웬 호구들이냐 싶었다 보다.
+터미널 앞에는 사람이 꽤 많았다. 우리가 터미널 건너편으로 내리자 장거리 택시 중개인인 듯한 사람들이 모여들었다. 마침 숙소에서 만난 분들과 일정이 맞아 같이 가기로 했고 일행이 열 명쯤 됐다. 배낭을 멘 동양인들이 떼로 도착하니 이게 웬 호구들이냐 했지 싶다.
 
 우리와 흥정하던 사람들끼리 언쟁이 있었다. 우리야 무슨 뜻인지 모르니 ~~이긴 사람 우리 편~~ 기다릴밖에. 어쨌건 트리니다드까지 비용을 나눠 부담하는 것으로 하고 3대의 차를 빌려서 비교적 저렴하게 갈 수 있었다.
 
@@ -64,7 +64,7 @@ author:
 
 ## 1번 고속도로 Autopista Nacional
 
-아바나를 빠져나가서 어느새 탁 트인 도로를 마주한다. 항상 차가 밀리는 한남대교 남단을 떠올려보면, 글쎄... 여기는 차가 없는 셈이다. 드문드문 지나가긴 하지만 추월선이니 뭐니 굳이 필요를 못 느낄 정도.
+아바나를 빠져나가서 어느새 탁 트인 도로를 마주한다. 항상 차가 밀리는 한남대교 남단을 떠올려보면... 여기는 차가 없는 셈이다. 드문드문 지나가긴 하지만 추월선이니 뭐니 굳이 필요를 못 느낄 정도.
 
 <div class="imageCaption">
 	<img src="https://lh3.googleusercontent.com/8iYQ9ZO5zDCmkFbwGGBR8QMZzQOFTmAzGa3tKV2oEf5NFBjFWEnC7LOo7EzEsKVMFui5jub9JmB7bxBOqKzSqrAUr6z_vqopD1GbeQ8PVJaj_-TOLC6zkOSAe8ythl_2ZgqhBoQyiLgopHOM2ZDa9xU92Xfz4wyMKmfhhnxUry1vDBjdIrROWpwrzh54YHs03dtCZZgff0OZsN97qxK5HH10KMmYVv6bWgXavZjLwIsN27ZrPZA-LCriVxKDW55UA-KGodiIO-r-aIFY9RXRhzG-yTS-wAxgQVk1nGtgSsjaLmPt_IYXBPzBec7euLK7hGUjBDJe59o_ee-p0So842XLKgNZ1ioy2iNw50Pauz3MBik11JIuNPlUzcXUWxoRbOlIZ0_UqOmLWQIW_Zm-5WViHYdFlKbJFNUSDq9RY8cTg9jPuUScngRngjZuQ46gL-T0RBtNWF3oyFuv9OZpx5XrHcYOp5m5TjRYOKFxCToc1GqCa0yZzcJsAMhSJtwip2BHV4-TG32pAZgYdklrGoVqyqLPlah1IwIQdA7rz9m8cDne18tKMACtnDPj9OlSJEFcaauOvcVXdydfqxB8478sESUvApcg4rqdjmnf3kY=w1621-h966-no" alt="1번 고속도로 풍경">
@@ -83,7 +83,9 @@ author:
 
 오토바이뿐만 아니라 마차가 함께 다니는 고속도로. 가끔 만나는 농업용 차량들, 심지어는 자전거까지도 어느샌가 자연스레 받아들이는 나를 보게 되는 곳.
 
-고속도로에 버스 정류장이 있는 건 놀랄 일도 아니다. 길가에 나와있는 히치하이커나 일반 도로가 만나는 교차로가 있다는 것 역시. 차가 없으니 기사가 길을 질러 간다며 램프를 역주행해서 올라가는 장면에서 좀 놀라긴 했지만. 별일 없었기에 외려 이 모든 걸 납득할 수 있었다. 쿠바니까.
+고속도로에 버스 정류장이 있는 건 놀랄 일도 아니다. 길가에 나와있는 히치하이커나 일반 도로가 만나는 교차로가 있다는 것 역시.
+
+차가 없으니 기사가 길을 질러 간다며 램프를 역주행해서 올라가는 장면에서 좀 놀라긴 했지만 별일 없었기에 외려 이 모든 걸 납득할 수 있었다. 여긴 쿠바니까.
 
 이 길 위에서 비로소 우리 삶의 과잉에 대해 생각해보게 됐다.
 
