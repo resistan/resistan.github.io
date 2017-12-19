@@ -117,7 +117,7 @@ author:
 	<img src="https://lh3.googleusercontent.com/cBcOdRyE1oj6HrQwJQe7d0FEfC_hySip7hijt9ehAhLoXWYxicc743lJHAi0-_R2R3XP7QOfRzkGenkQeXn6lvmf2wr9u4RhPpnGBAfK9MjpXeGLXknjSRw4g3NLNwLzVcS7eQ_wG5k05K0TG--AGoDqNuzovpxy8CXh3sOTPgxSDB9gaDwpGQ6qXXlsAptFgWgPsIOSQdkjE1PllioKzSAdplzrcDPseSw-ige50ytzSZKpSG5N1DnV9_wo4gf3D4rtoOSQSk9X0sn9Wtd6O5nzJDmrXbvAalqbpkgVN7zR7bMwrME3eYRZ44aYWh4cq-UmN9Hb1x1idRNcwB82bdVpR0cF9UGHu6BV1wx_lGbwSr8Z9fJXRgLq9FwhycNwOUUle81omitFhh2fzVA-YpSQY5HMeWXPQ2mK6WO0ceomqxIfhQyhxXdfX7qc7Q-7JkSB8WwF52qcgunoZrjH7gH0_-ANf6LuQHWId8YJslbvCjk4c1bTB5vNhMxIX4SvInfeu5-XPbiJMPKr8oWzttthlGTVwxkxEnLSalsRCfK1IDVyKu65DIJ9wfp9It373eA-_6t32Qu-xtTf8plbqZxb_EMouAOKR_TfqtBD=w1173-h1052-no" alt="">
 </div>
 
-도시 출생이라 대학 시절 농활 가서 경운기 뒤에 타본 게 자랑해야 할 수준이다 보니, 마차가 흔한 교통수단인 쿠바의 시골 풍경이 조금은 정겹달까. 아마 부모님 세대라면 소달구지 타던 이야기를 하실지도 모르겠지만.
+도시 출생이라 대학 시절 농활 가서 경운기 뒤에 타본 게 자랑인 수준이다 보니, 마차가 흔한 교통수단인 쿠바의 시골 풍경이 조금은 정겹달까. 아마 부모님 세대라면 소달구지 타던 이야기를 하실지도 모르겠지만.
 
 군인 그림이 있는 현수막이 내걸린 마을 교차로에는 피자 전문점 간판이 보인다. 걷는 사람들이나 생물의 힘(말이든 사람이든)을 이용하는 교통편이 흔한 거리 풍경. 잘 차려입은 멋쟁이와 민소매 차림의 동네 아줌마의 공존이 어색하지 않은 풍경.
 
@@ -127,9 +127,9 @@ author:
 	<img src="https://c1.staticflickr.com/6/5151/29848887020_f201a581cf_k.jpg" alt="잉헤니오스 계곡의 노예 감시 망루">
 </div>
 
-일부러 운동하겠다고 자전거 타고 한강변으로 나가지 않는 한, 대부분의 시간을 실내에서 보내는 일상을 떠올려보니 스스로가 더 불쌍해지는 이유는 뭘까. ~~의문의 1패~~
+일부러 운동하겠다며 자전거 타고 한강변으로 나가지 않는 한, 대부분의 시간을 실내에서 보내는 일상을 떠올려보니 스스로가 더 불쌍해지는 이유는 뭘까. ~~의문의 1패~~
 
-어느덧 산길을 벗어나 멀리 바다가 보일 것 같은 야트막한 길로 접어들었는데, 어디서 많이 본 탑이 보인다. 미리 조사한 게 있어 얻어걸린 셈. 그래서 잠시 쉬자며 차를 세웠다.
+어느덧 산길을 벗어나 멀리 바다가 보일 것 같은 야트막한 길로 접어들었는데, 어디서 많이 본 탑이 서있다. 미리 조사한 게 있어 얻어걸린 셈. 그래서 잠시 쉬자며 차를 세웠다.
 
 하루 한 번 운행한다는 트리니다드발 증기 기관차로 여행객이 찾는다는 잉헤니오스 계곡(Valley de los Ingenios). 아프리카 사람들을 노예로 끌고 와 사탕수수를 재배했다는 곳인데, 아마 트리니다드로 직행했다면 열차를 탔을지도 모르겠다. 일행과 여정이 함께 하니 둘러보자 말은 못했지만, 가본 셈 치자.
 
