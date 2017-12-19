@@ -3,14 +3,16 @@ layout: post
 title: 트리니다드로 가던 길 위에서 - 쿠바 여행기 4
 date: 2017-12-02 13:26:20.000000000 +09:00
 type: post
-published: false
-status: draft
+published: true
+status: publish
 categories:
 - "여행"
 tags:
 - "여행"
 - "쿠바"
 - "고속도로"
+- "시골"
+- "풍경"
 image:
       url: https://c1.staticflickr.com/6/5347/29515684373_2b2a8e551a_k.jpg
 meta:
