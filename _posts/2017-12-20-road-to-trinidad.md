@@ -25,8 +25,6 @@ author:
   last_name: "조"
 ---
 
-## 
-
 월요일 아침. 2박 1일간의 아바나를 뒤로하고 트리니다드로 간다.
 
 ### 교통편
@@ -107,7 +105,7 @@ author:
 
 <div class="boxed alignLeft imageCaption">
 	<img src="https://lh3.googleusercontent.com/vp88IFQRym4KwfMTJ_AmaiY1fhnvWe-IVBg0oIdYGlwbyEn2YgwmkfESGnXAFNYgMpHBvPTd0iL-GrLyL34iw-aW8p40j9v2aLKG4A5ogzHmwJ-BeWphbI7-MEOddoQNLDf_nKBW95J2sF8a-eGhDgsdZCrR6kDytTBEfLBtPRhRAvnZUchh_v_pxWysgVZg2xc4L0h9glkoz13CR42elVON8TrbfMr4XQ5fvatedxt8iWdtBEbyEwVf_IWn_axkI2IEbW7lwQrLrRckHWiXoSQ3tSt8nzjKCGcSWY3Ri9dJaSyUs5JR2PZqUlVGKy_KBKvB5Zl1PouRWFnrF3iWI_l8DKMWzYrSUNqjqmlVGVqWoebye5P49KjqBIm7ZOds_Fmr3RuITNAcaySyHqb8oWgwN7Z2aWN6wAVNQy0BkEEcTlfJWQ3Mcyr1juVZFlCHIWa1PdwMFn5IWLaj5W7jWzKXUc8JiSLzREzbACrZZjEPkS97NrSunpcdIwdvNK4s7aJMp_qx74TjjKL3vxyM_eYc5AwqknB3c-Aojgk8lEabWUCOt_5lkgW1dlqdx5bg7NWKhCf01zaH63ZS9-96bVFzDwojyaUHD5N9JQOR=w1621-h912-no" alt="">
-	<p>수다 떠는 동네 아줌마들은 아마도 만국 공통</p>
+	<p>수다 떠는 동네 아줌마들은 만국 공통</p>
 	<img src="https://lh3.googleusercontent.com/5Nz4a1l7dCu37zrjRUgsVKxoP1FNVUZufmS1VezhszaPHxfYW8OjXtT9bav3UtRLDJCDkmYDR6Q9PUFauSYwaYLWKqW89a46kdz4H6jHAa--lpjcBYFbAlMts5U1ycIx6a2sSuRdf1rTjpCw6n6eAq3P86yXnAgsi-Jvii5FbmPmywBXf69LzaCJPjxo1IGgIfIohAgy3Y9-gUuYqVfnqxnBxHRhBprv_td_0HEku6RVNc4QEaAgJl499gRbBh_jammLY8GDpqjCZUnxPWYtBN6Win5yLpvjNZIPTLlqsewO0kKO57RnfuR3cxdu-4y_rGvfH_GHgPP9hOHGZMKms6n3cBu7Rsi8lGMH16_RyGh5IV0YCkQ50SgP0LVCUKJhef36qTUK99RGUjoXiiMsS4u2oDVfhtNVlxDWdKrk1pB9fGr9wRXXL3SdwJtPWszMAcW7LLZZhtq9DSZh1meeamTBbB0lNLfzkq3fCjXF6-VGRZ5eEswtCkRZBqHnzrE2pRPNQ8v8PXuaR5TeQmC5qf9dV1Y1FhzJmHWUAidZGVkT4w7WQFNIKGbWPHyCIOdEqofSgW6UFdSNlQY9SpgJOpvHMBN4av8mNNL5svnQ=s1052-no" alt="">
 	<p>이런 멋쟁이들 같으니</p>
 </div>
@@ -131,7 +129,7 @@ author:
 
 어느덧 산길을 벗어나 멀리 바다가 보일 것 같은 야트막한 길로 접어들었는데, 어디서 많이 본 탑이 보인다. 미리 조사한 게 있어 얻어걸린 셈. 그래서 잠시 쉬자며 차를 세웠다.
 
-하루 한 번 운행한다는 트리니다드발 증기 기관차로 와 본다는 잉헤니오스 계곡(Valley de los Ingenios). 아프리카 사람들을 노예를 끌고 와 사탕수수를 재배했다는 곳인데, 아마 트리니다드로 직행했다면 열차를 탔을지도 모르겠다. 일행과 여정이 함께 하니 둘러보자 말은 못했지만, 가본 셈 치자.
+하루 한 번 운행한다는 트리니다드발 증기 기관차로 여행객이 찾는다는 잉헤니오스 계곡(Valley de los Ingenios). 아프리카 사람들을 노예를 끌고 와 사탕수수를 재배했다는 곳인데, 아마 트리니다드로 직행했다면 열차를 탔을지도 모르겠다. 일행과 여정이 함께 하니 둘러보자 말은 못했지만, 가본 셈 치자.
 
 자, 이제 트리니다드가 코앞이다.
 
@@ -139,8 +137,7 @@ author:
 
 뱀발
 
-몇 시간 겪은 이야기를 기록하기 위해 그 몇 배의 시간을 쓰고 있는 난 뭐지. ~~그냥 바보지~~
-
+몇 시간 겪은 이야기를 기록하기 위해 그 몇 배의 시간을 쓰고 있는 난 뭐지. ~~그냥 바보~~
 
 
 [^1]: <a href="https://ko.wikipedia.org/wiki/%EC%BF%A0%EB%B0%94#%EC%A7%80%EB%A6%AC" target="_blank" title="새창">쿠바의 전체 면적은 우리나라 보다 조금 크지</a>만, 동서로는 1400Km가 넘는다. 아무래도 교통수단이 다양하지 않아 이동에 많은 시간이 소요된다.
@@ -148,5 +145,3 @@ author:
 [^2]: 산티아고 데 쿠바(Santiago de cuba): 남동쪽 끝의 공업 도시. 럼 브랜드이기도 하다. 귀국할 때 12년산을 한 병 사 왔는데, 가격은 좀 비싼 편이지만 정말 맛있었다. ~~술 이야기는 빼놓을 수 없다!~~
 
 [^3]: 산타클라라(Santa Clara): 체 게바라의 도시로 유명한 곳이다. 그의 무덤과 기념관이 있다고 한다.
-
-
