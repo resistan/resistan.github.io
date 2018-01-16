@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 미정 - 쿠바 여행기 X
-date: 2017-12-02 13:26:20.000000000 +09:00
+date: 2018-1-20 13:26:20.000000000 +09:00
 type: post
 published: false
 status: draft
