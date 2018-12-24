@@ -64,13 +64,12 @@ author:
 * 아시아나항공 글로벌 사이트
 * Hynix 전사 사이트 리뉴얼
 * SK Enclean.com 포털사이트
-* 삼성닷컴 모바일
-* 삼성닷컴 interim enhancement
-* 삼성닷컴 3.0 B2C, B2B
-* 삼성닷컴 웹 접근성 개선
-* 현대커머셜DX 리뉴얼
-* 현대캐피탈DX 리뉴얼
+* 삼성닷컴 모바일 구축
+* 삼성닷컴 P 2.75 interim enhancement, P 3.0 B2C, B2B, 웹 접근성 개선
+* 현대커머셜DX, 현대캐피탈DX 리뉴얼
 * CJ Grandshopping Mexico 리뉴얼
+* 롯데컬쳐웍스 seechu.co.kr 구축
+* ellotte.com 리뉴얼
 
 ### 놀러가 본
 
