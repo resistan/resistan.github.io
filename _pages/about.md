@@ -35,7 +35,7 @@ author:
 * 前 team WE 웹 표준/웹 접근성 컨설턴트
 * 前 <a href="http://www.acg.co.kr/" target="_blank" title="새창">ACG</a> FD 팀장
 * 前 (주)오마이트립 UX팀
-* <a href="http://regularbold.co.kr" target="_blank" title="새창">RegularBold</a> UI기술실장
+* 前 <a href="http://regularbold.co.kr" target="_blank" title="새창">RegularBold</a> UI기술실장
 
 ### 활동
 * <a href="http://barcamp.org/BarCampSeoul">BarCampSeoul</a> 1st "<a href="/structured-web-design/">구조를 살리는 웹 사이트 디자인</a>" 발표
@@ -70,8 +70,11 @@ author:
 * CJ Grandshopping Mexico 리뉴얼
 * 롯데컬쳐웍스 seechu.co.kr 구축
 * ellotte.com 리뉴얼
+* 데시앙 사이트 구축
+* 올리브영 PB 사이트 구축
+* 롯데CM사업본부 홈페이지 구축
 
-### 놀러가 본
+### 다녀 본
 
 * 미국이라 하기엔 쫌 그렇지만 사이판
 * 일본: 오사카, 도쿄, 교토, 고베
@@ -80,6 +83,6 @@ author:
 * 쿠바: 아바나, 트리니다드, 시엔푸에고스, 비냘레스
 * 쿠바 다녀오던 길에 나이아가라 폭포
 * 인도: 델리, 자이살메르, 우다이푸르, 조드푸르, 아그라, 바라나시, 다질링, 암리차르
-* 이탈리아: 시칠리아(팔레르모, 팔라조 아드리아노, 아그리젠토와 인근, 시라쿠사, 카타니아, 로마, 폼페이, 아말피 해안)
+* 이탈리아: 시칠리아, 로마 + 폼페이 유적
 
 <div class="more">* <a href="/about-naxer/">낙서넷에 관해</a></div>
