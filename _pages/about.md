@@ -36,6 +36,7 @@ author:
 * 前 <a href="http://www.acg.co.kr/" target="_blank" title="새창">ACG</a> FD 팀장
 * 前 (주)오마이트립 UX팀
 * 前 <a href="http://regularbold.co.kr" target="_blank" title="새창">RegularBold</a> UI기술실장
+* <a href="http://oddconcepts.kr" target="_blank" title="새창">Odd Concepts</a> 서비스팀
 
 ### 활동
 * <a href="http://barcamp.org/BarCampSeoul">BarCampSeoul</a> 1st "<a href="/structured-web-design/">구조를 살리는 웹 사이트 디자인</a>" 발표
