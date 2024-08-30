@@ -595,3 +595,60 @@ pre code {
 	margin-top: 60px;
 	border-top: 1px solid #EEE;
 }
+
+@media (prefers-color-scheme: dark) {
+    #middle {
+        background-color: #121212;
+    }
+    tbody tr:nth-child(odd) td,
+    tbody tr:nth-child(odd) th {
+        background-color: #333;
+    }
+    code,
+    pre {
+        font-family: Menlo, Monaco, "Courier New", monospace;
+        background-color: #333;
+    }
+    .clean {
+        color: #666;
+        background-color: #eee;
+    }
+    p {
+        color: #ccc;
+    }
+    a {
+        color: #3ea6ff;
+    }
+    #article,
+    #comments {
+        color: #ddd;
+    }
+    abbr {
+        color: #bbb;
+    }
+    blockquote,
+    pre,
+    .message {
+        color: #999;
+    }
+    .pagination,
+    .pagination a {
+        color: #aaa;
+    }
+    #post-list {
+        color: #999;
+    }
+    #post-list a {
+        color: #3ea6ff;
+    }
+
+    #post-list a:hover {
+        color: #2a7ead;
+    }
+    .post-description {
+        color: #aaa;
+    }
+    .post-date {
+        color: #999;
+    }
+}
