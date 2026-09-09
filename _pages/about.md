@@ -26,8 +26,6 @@ author:
 ---
 ## 글쓰고 운영하는 이
 ### 조현진 / Cho,Hyeonjin
-
-* 목마름 / 중독 / resistan
 * <a href="http://webstandards.or.kr" target="_blank" title="새창">한국 웹 표준 프로젝트(WSK)</a> 회원
 * <a href="http://kwag.net" target="_blank" title="새창">한국 웹 접근성 그룹(KWAG)</a> 회원
 * 前 <a href="http://wah.or.kr" target="_blank" title="새창">웹 접근성 연구소</a> 기술자문위원
@@ -37,6 +35,11 @@ author:
 * 前 (주)오마이트립 UX팀
 * 前 <a href="http://regularbold.co.kr" target="_blank" title="새창">RegularBold</a> UI기술실장
 * 前 <a href="http://oddconcepts.kr" target="_blank" title="새창">Odd Concepts</a> 서비스팀
+
+### 사이드 프로젝트
+* [지방 재정 들여다보기](https://local-fiscal.vercel.app/): 지자체 재정정보 간단 통계
+* [AAK Workbench(KWCAG)](https://chromewebstore.google.com/detail/aak-workbench-kwcag/elkfaoflahgmpohidpefbijhnpncledj): KWCAG 2.2 진단용 크롬 플러그인
+* [심심할 때 하려고 만든 게임 모음](https://fidget-games.vercel.app/)
 
 ### 활동
 * <a href="http://barcamp.org/BarCampSeoul">BarCampSeoul</a> 1st "<a href="/structured-web-design/">구조를 살리는 웹 사이트 디자인</a>" 발표
